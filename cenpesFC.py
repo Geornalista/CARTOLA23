@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 from matplotlib.ticker import MaxNLocator
 
 #================================
-rodada_atual = 5
+rodada_atual = 9
 #================================
 
 # FUNÇÕES ====================
